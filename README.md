@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is Zachry Luety.
-
-I currently work as a consulting actuary at GPW and Associates and teach data science at Arizona State University.
+My name is Zachry Luety. I am VP, Actuarial at Open Lending.
 
 - 📫 Reach me at zluety@openlending.com
 
