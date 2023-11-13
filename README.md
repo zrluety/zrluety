@@ -4,7 +4,7 @@ My name is Zachry Luety.
 
 I currently work as a consulting actuary at GPW and Associates and teach data science at Arizona State University.
 
-- 📫 Reach me at zluety@gpwa.com
+- 📫 Reach me at zluety@openlending.com
 
 <!--
 **zrluety/zrluety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
